@@ -13,7 +13,7 @@ Read Rapport_Projet_S4_Troisemaine_Levieux.pdf for more details.
 ## Demonstration video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cz-6uy60Rsc&cc_load_policy=1" target="_blank">
- <img src="thumbnail.png" alt="Watch the video" border="10" />
+ <img src="thumbnail.jpg" alt="Watch the video" border="10" />
 </a>
 
 
